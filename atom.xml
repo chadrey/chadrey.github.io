@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Reynoldson Control Inc.</title>
+  <subtitle>Programming for AV</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.reynoldsoncontrol.com/"/>
+  <updated>2017-02-17T17:45:11.312Z</updated>
+  <id>http://www.reynoldsoncontrol.com/</id>
+  
+  <author>
+    <name>Chad Reynoldson</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://www.reynoldsoncontrol.com/blog/hello-world.html"/>
+    <id>http://www.reynoldsoncontrol.com/blog/hello-world.html</id>
+    <published>2017-02-17T06:00:00.000Z</published>
+    <updated>2017-02-17T17:45:11.312Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is the typical <strong>hello world</strong> that all programmers generate many times throughout their career. This is the culmination of hard work learning more about <a href="http://hexo.io" target="_blank" rel="external">hexo</a>, <a href="https://nodejs.org/en/" target="_blank" rel="external">nodejs</a>,  <a href="https://www.npmjs.com/" target="_blank" rel="external">npm</a>,  <a href="http://getbootstrap.com" target="_blank" rel="external">bootstrap</a>, and <a href="http://github.com" target="_blank" rel="external">github</a>. That hard work results in a tool that generates this website - <strong>Reynoldson Control</strong>.</p>
+<a id="more"></a>
+<p><strong>Why hexo?</strong></p>
+<ul>
+<li>Never again get burned by the loss of a CMS database.</li>
+<li>Never again jump through hoops that the usual CMS requires.</li>
+<li>No more waiting for database queries on a shared server.</li>
+<li>Hey, I’m a developer. This can be fun and I can add a tool to my belt.</li>
+<li>Write in markdown and generate html, sign me up!</li>
+<li>I get to work with <a href="https://nodejs.org/en/" target="_blank" rel="external">nodejs</a> and <a href="https://www.npmjs.com/" target="_blank" rel="external">npm</a>.</li>
+</ul>
+<p><strong>Why bootstrap?</strong></p>
+<ul>
+<li>A website needs to be responsive and work on mobile devices.</li>
+<li>It is more than just a grid system, it is a beautiful framework!</li>
+<li>It comes with a grid, css, components, and plugins.</li>
+<li>It allows me to continue to sharpen a skill that I enjoy.</li>
+</ul>
+<p><strong>Why github?</strong></p>
+<ul>
+<li>I can host this site for free!</li>
+<li>Clone, write, deploy, commit!</li>
+<li>I can separate a repository that generates a site from the actual site, whoah!</li>
+<li>Github is social and let’s be honest I need the company.</li>
+<li>I get to learn git.</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      My first hexo blog posting for www.reynoldsoncontrol.com.
+    
+    </summary>
+    
+      <category term="Voices" scheme="http://www.reynoldsoncontrol.com/category/Voices/"/>
+    
+    
+      <category term="Hexo" scheme="http://www.reynoldsoncontrol.com/tags/Hexo/"/>
+    
+  </entry>
+  
+</feed>
