@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.reynoldsoncontrol.com/"/>
-  <updated>2017-02-17T17:45:11.312Z</updated>
+  <updated>2018-03-19T18:58:19.392Z</updated>
   <id>http://www.reynoldsoncontrol.com/</id>
   
   <author>
@@ -16,11 +16,112 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>AMX Solutions Master - ASM</title>
+    <link href="http://www.reynoldsoncontrol.com/blog/AMX-Solutions-Master.html"/>
+    <id>http://www.reynoldsoncontrol.com/blog/AMX-Solutions-Master.html</id>
+    <published>2017-12-13T06:00:00.000Z</published>
+    <updated>2018-03-19T18:58:19.392Z</updated>
+    
+    <content type="html"><![CDATA[<p>We are pleased to announce our most recent certification as an <a href="https://pro.harman.com/training" target="_blank" rel="external">AMX Solutions Master - ASM</a>.  This is the highest honor within the College of AMX training program and recognizes individuals who are capable of integrating complete AMX solutions and technologies, made up of the following Harman Professional University certifications:</p>
+<ul>
+<li>Harman Certified Control Professional - Programming (<strong>HCCP-P</strong>)</li>
+<li>Harman Certified Control Professional - Design (<strong>HCCP-D</strong>)</li>
+<li>Harman Certified Control Professional - Commissioning (<strong>HCCP-C</strong>)</li>
+<li>Harman Certified Control Professional - Management (<strong>HCCP-M</strong>)</li>
+<li>Harman Certified Control Professional - Integration (<strong>HCCP-I</strong>)</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      Reynoldson Control has been certified as an AMX Solutions Master (ASM).
+    
+    </summary>
+    
+      <category term="AMX" scheme="http://www.reynoldsoncontrol.com/category/AMX/"/>
+    
+    
+      <category term="Certification" scheme="http://www.reynoldsoncontrol.com/tags/Certification/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Extron Qualified Independent Programmer - EQIP</title>
+    <link href="http://www.reynoldsoncontrol.com/blog/Extron-EQIP.html"/>
+    <id>http://www.reynoldsoncontrol.com/blog/Extron-EQIP.html</id>
+    <published>2017-12-01T06:00:00.000Z</published>
+    <updated>2018-03-19T19:39:30.991Z</updated>
+    
+    <content type="html"><![CDATA[<p>We are pleased to announce our acceptance as an <a href="https://www.extron.com/company/article.aspx?id=eqipprogram" target="_blank" rel="external">Extron Qualified Independent Programmer company</a>.  Thank you Extron for trusting our programming in partnership with your control system platform.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      Reynoldson Control is now an Extron Qualified Independent Programmer company.
+    
+    </summary>
+    
+      <category term="Extron" scheme="http://www.reynoldsoncontrol.com/category/Extron/"/>
+    
+    
+      <category term="Voices" scheme="http://www.reynoldsoncontrol.com/tags/Voices/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Extron Control Professional - ECP</title>
+    <link href="http://www.reynoldsoncontrol.com/blog/Extron-ECP.html"/>
+    <id>http://www.reynoldsoncontrol.com/blog/Extron-ECP.html</id>
+    <published>2017-11-20T06:00:00.000Z</published>
+    <updated>2018-03-19T19:39:19.848Z</updated>
+    
+    <content type="html"><![CDATA[<p>We are pleased to announce our most recent certification as an <a href="https://www.extron.com/company/article.aspx?id=controlpro&amp;s=trsb" target="_blank" rel="external">Extron Control Professional - ECP</a>.  If you need Global Configurator Professional programming to customize your Extron Pro Series controllers, we are certified to help.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      Reynoldson Control is now a certified Extron Control Professional.
+    
+    </summary>
+    
+      <category term="Extron" scheme="http://www.reynoldsoncontrol.com/category/Extron/"/>
+    
+    
+      <category term="Certification" scheme="http://www.reynoldsoncontrol.com/tags/Certification/"/>
+    
+      <category term="Voices" scheme="http://www.reynoldsoncontrol.com/tags/Voices/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AMX Valued Independent Partner - VIP</title>
+    <link href="http://www.reynoldsoncontrol.com/blog/AMX-VIP.html"/>
+    <id>http://www.reynoldsoncontrol.com/blog/AMX-VIP.html</id>
+    <published>2017-03-01T06:00:00.000Z</published>
+    <updated>2018-03-19T19:39:10.321Z</updated>
+    
+    <content type="html"><![CDATA[<p>We are pleased to announce our acceptance into the <a href="http://trade.amx.com/partners/vip.asp" target="_blank" rel="external">AMX Valued Independent Partners program</a>.  Thank you AMX for trusting our programming in partnership with your control system platform.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      Reynoldson Control has joined the AMX Valued Independent Partners program.
+    
+    </summary>
+    
+      <category term="AMX" scheme="http://www.reynoldsoncontrol.com/category/AMX/"/>
+    
+    
+      <category term="Voices" scheme="http://www.reynoldsoncontrol.com/tags/Voices/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://www.reynoldsoncontrol.com/blog/hello-world.html"/>
     <id>http://www.reynoldsoncontrol.com/blog/hello-world.html</id>
     <published>2017-02-17T06:00:00.000Z</published>
-    <updated>2017-02-17T17:45:11.312Z</updated>
+    <updated>2018-03-19T19:00:20.453Z</updated>
     
     <content type="html"><![CDATA[<p>This is the typical <strong>hello world</strong> that all programmers generate many times throughout their career. This is the culmination of hard work learning more about <a href="http://hexo.io" target="_blank" rel="external">hexo</a>, <a href="https://nodejs.org/en/" target="_blank" rel="external">nodejs</a>,  <a href="https://www.npmjs.com/" target="_blank" rel="external">npm</a>,  <a href="http://getbootstrap.com" target="_blank" rel="external">bootstrap</a>, and <a href="http://github.com" target="_blank" rel="external">github</a>. That hard work results in a tool that generates this website - <strong>Reynoldson Control</strong>.</p>
 <a id="more"></a>
@@ -56,10 +157,10 @@
     
     </summary>
     
-      <category term="Voices" scheme="http://www.reynoldsoncontrol.com/category/Voices/"/>
+      <category term="Hexo" scheme="http://www.reynoldsoncontrol.com/category/Hexo/"/>
     
     
-      <category term="Hexo" scheme="http://www.reynoldsoncontrol.com/tags/Hexo/"/>
+      <category term="Voices" scheme="http://www.reynoldsoncontrol.com/tags/Voices/"/>
     
   </entry>
   

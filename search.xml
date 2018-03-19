@@ -4,6 +4,99 @@
   
     
     <entry>
+      <title><![CDATA[AMX Solutions Master - ASM]]></title>
+      <url>http://www.reynoldsoncontrol.com/blog/AMX-Solutions-Master.html</url>
+      <content type="html"><![CDATA[<p>We are pleased to announce our most recent certification as an <a href="https://pro.harman.com/training" target="_blank" rel="external">AMX Solutions Master - ASM</a>.  This is the highest honor within the College of AMX training program and recognizes individuals who are capable of integrating complete AMX solutions and technologies, made up of the following Harman Professional University certifications:</p>
+<ul>
+<li>Harman Certified Control Professional - Programming (<strong>HCCP-P</strong>)</li>
+<li>Harman Certified Control Professional - Design (<strong>HCCP-D</strong>)</li>
+<li>Harman Certified Control Professional - Commissioning (<strong>HCCP-C</strong>)</li>
+<li>Harman Certified Control Professional - Management (<strong>HCCP-M</strong>)</li>
+<li>Harman Certified Control Professional - Integration (<strong>HCCP-I</strong>)</li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> AMX </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Certification </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Extron Qualified Independent Programmer - EQIP]]></title>
+      <url>http://www.reynoldsoncontrol.com/blog/Extron-EQIP.html</url>
+      <content type="html"><![CDATA[<p>We are pleased to announce our acceptance as an <a href="https://www.extron.com/company/article.aspx?id=eqipprogram" target="_blank" rel="external">Extron Qualified Independent Programmer company</a>.  Thank you Extron for trusting our programming in partnership with your control system platform.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Extron </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Voices </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Extron Control Professional - ECP]]></title>
+      <url>http://www.reynoldsoncontrol.com/blog/Extron-ECP.html</url>
+      <content type="html"><![CDATA[<p>We are pleased to announce our most recent certification as an <a href="https://www.extron.com/company/article.aspx?id=controlpro&amp;s=trsb" target="_blank" rel="external">Extron Control Professional - ECP</a>.  If you need Global Configurator Professional programming to customize your Extron Pro Series controllers, we are certified to help.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Extron </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Certification </tag>
+            
+            <tag> Voices </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[AMX Valued Independent Partner - VIP]]></title>
+      <url>http://www.reynoldsoncontrol.com/blog/AMX-VIP.html</url>
+      <content type="html"><![CDATA[<p>We are pleased to announce our acceptance into the <a href="http://trade.amx.com/partners/vip.asp" target="_blank" rel="external">AMX Valued Independent Partners program</a>.  Thank you AMX for trusting our programming in partnership with your control system platform.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> AMX </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Voices </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Hello World]]></title>
       <url>http://www.reynoldsoncontrol.com/blog/hello-world.html</url>
       <content type="html"><![CDATA[<p>This is the typical <strong>hello world</strong> that all programmers generate many times throughout their career. This is the culmination of hard work learning more about <a href="http://hexo.io" target="_blank" rel="external">hexo</a>, <a href="https://nodejs.org/en/" target="_blank" rel="external">nodejs</a>,  <a href="https://www.npmjs.com/" target="_blank" rel="external">npm</a>,  <a href="http://getbootstrap.com" target="_blank" rel="external">bootstrap</a>, and <a href="http://github.com" target="_blank" rel="external">github</a>. That hard work results in a tool that generates this website - <strong>Reynoldson Control</strong>.</p>
@@ -36,14 +129,14 @@
       
         <categories>
             
-            <category> Voices </category>
+            <category> Hexo </category>
             
         </categories>
         
         
         <tags>
             
-            <tag> Hexo </tag>
+            <tag> Voices </tag>
             
         </tags>
         

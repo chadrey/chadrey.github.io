@@ -4,9 +4,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Blog articles categorized as Voices.">
+  <meta name="description" content="Programming for AV">
   <meta name="author" content="Chad Reynoldson">  
-  <title>Voices | Reynoldson Control Inc.</title>
+  <title>Cisco | Reynoldson Control Inc.</title>
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.7/readable/bootstrap.min.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:400,700">
@@ -14,7 +14,8 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="/assets/css/styles.min.css">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="/assets/css/Pretty-Footer.css">
   <link rel="icon" type="image/x-icon" href="http://www.reynoldsoncontrol.comfavicon.ico" />
   <link rel="alternate" href="http://www.reynoldsoncontrol.com/atom.xml" title="Reynoldson Control Inc." type="application/atom+xml">
 
@@ -32,7 +33,7 @@
 
 <body>
   <!-- navigation -->
-  <nav class="navbar navbar-inverse navbar-fixed-top">
+  <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
     <div class="container">
       <div class="navbar-header"><a class="navbar-brand navbar-link" href="/#">Reynoldson Control Inc.</a>
         <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
@@ -40,71 +41,25 @@
       <div class="collapse navbar-collapse" id="navcol-1">
         <ul class="nav navbar-nav navbar-right">
           <li role="presentation"><a href="/#Services">Services</a></li>
-          <li role="presentation"><a href="/#About">About</a></li>
-          <li role="presentation"><a href="/#Contact">Contact</a></li>
+          <li role="presentation"><a href="/#Platforms">Platforms</a></li>
+          <li role="presentation"><a href="/about">About</a></li>
+          <li role="presentation"><a href="/contact">Contact</a></li>
           <li role="presentation"><a href="/blog">Blog</a></li>
         </ul>
       </div>
     </div>
   </nav>
-  <!-- category -->
-  <div class="container">
-    <h1 class="right-line"><i class="fa fa-folder-open icon-pre"></i>Blog Posts (Voices)</h1>
-    <div class="row">
-      <div class="col-md-8">
-        <!-- blog-posts-category -->
-                <article>
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <a href="/blog/hello-world.html" title="My first hexo blog posting for www.reynoldsoncontrol.com."><h1 class="panel-title">Hello World</h1></a>
-            </div>
-            <div class="panel-body">
-                              <p>This is the typical <strong>hello world</strong> that all programmers generate many times throughout their career. This is the culmination of hard work learning more about <a href="http://hexo.io">hexo</a>, <a href="https://nodejs.org/en/">nodejs</a>,  <a href="https://www.npmjs.com/">npm</a>,  <a href="http://getbootstrap.com">bootstrap</a>, and <a href="http://github.com">github</a>. That hard work results in a tool that generates this website - <strong>Reynoldson Control</strong>.</p>
-                          </div>
-            <div class="panel-footer post-info">
-              <div class="row">
-                <div class="col-md-8">
-                  <span><i class="fa fa-clock-o"></i>February 17th 2017</span>
-                  <span><i class="fa fa-folder-open"></i>
-                  <a href="/category/Voices">Voices</a>
-                  </span>
-                  <span><i class="fa fa-tags"></i>
-                  <a href="/tags/Hexo">Hexo</a>
-                  </span>
-                </div>
-                
-                <div class="col-md-4"><a href="/blog/hello-world.html" class="pull-right">Read more &gt;&gt;</a></div>
-                
-              </div>
-            </div>
-          </div>
-        </article>
-
-      </div>
-      <div class="col-md-4">
-        <!-- blog-sidebar -->
-        <aside>
-          <div id="site_search">
-            <div class="form-group">
-              <input id="local-search-input" type="text" name="q" placeholder="Search" class="form-control">
-            </div>
-          </div>
-          <div id="local-search-result"></div>
-          <h4><i class="fa fa-clock-o icon-pre"></i>Recent Posts</h4>
-          <ul class="list-group">
-                        <li class="list-group-item"><a href="/blog/hello-world.html" target="_self">Hello World</a></li>
-
-          </ul>
-          <h4><i class="fa fa-folder-open icon-pre"></i>Categories </h4>
-          <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/category/Voices/">Voices</a></li></ul>
-          <h4><i class="fa fa-tags icon-pre"></i>Tags </h4>
-          <div class="tagcloud">
-            <a href="/tags/Hexo/" style="font-size: 10px;">Hexo</a>
-          </div>
-        </aside>
-      </div>
+  <!-- page -->
+  <div class="container features-clean">
+      <section id="PlatformHeading">
+    <div class="intro">
+      <h2 class="text-center">Cisco</h2>
+      <p class="text-center">We can provide custom Cisco Touch10 solutions to interface with in-room control (CE9) to an AMX system or CE customization macros (CE9.2) direct to an IoT device.</p>
     </div>
+  </section>
+
   </div>
+
   <!-- footer -->
   <footer>
     <div class="row">
@@ -132,7 +87,7 @@
       <div class="clearfix visible-sm-block"></div>
       <div class="col-md-4 footer-about">
         <h4>About the company</h4>
-        <p>Providing control system programming and web development for AV. </p>
+        <p>Providing control system programming and web application development for the Audio/Visual industry. </p>
         <div class="social-links social-icons">
           <a href="https://github.com/chadrey"><i class="fa fa-github"></i></a>
           <a href="https://www.linkedin.com/in/chadreynoldson"><i class="fa fa-linkedin"></i></a>
@@ -145,17 +100,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-      <!-- script (search) -->
-    <script src="/assets/js/search.js"></script>
-    <script type="text/javascript">
-         var search_path = "search.xml";
-         if (search_path.length == 0) {
-         	search_path = "search.xml";
-         }
-         var path = "/" + search_path;
-         searchFunc(path, 'local-search-input', 'local-search-result');
-    </script>
-  
+
 </body>
 
 </html>
