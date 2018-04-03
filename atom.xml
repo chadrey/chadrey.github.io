@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.reynoldsoncontrol.com/"/>
-  <updated>2018-03-19T18:58:19.392Z</updated>
+  <updated>2018-04-03T13:50:17.704Z</updated>
   <id>http://www.reynoldsoncontrol.com/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Extron Authorized Programmer - EAP</title>
+    <link href="http://www.reynoldsoncontrol.com/blog/Extron-EAP.html"/>
+    <id>http://www.reynoldsoncontrol.com/blog/Extron-EAP.html</id>
+    <published>2018-03-29T05:00:00.000Z</published>
+    <updated>2018-04-03T13:50:17.704Z</updated>
+    
+    <content type="html"><![CDATA[<p>We are pleased to announce our most recent certification as an <a href="https://www.extron.com/company/article.aspx?id=eaprogrammer&amp;s=trsb" target="_blank" rel="external">Extron Authorized Programmer - EAP</a>.  If you need <a href="https://www.extron.com/technology/landing/programming/" target="_blank" rel="external">Global Scripter python programming</a> to customize your Extron Pro Series controllers, we are certified to help.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      Reynoldson Control is now a certified Extron Authorized Programmer.
+    
+    </summary>
+    
+      <category term="Extron" scheme="http://www.reynoldsoncontrol.com/category/Extron/"/>
+    
+    
+      <category term="Certification" scheme="http://www.reynoldsoncontrol.com/tags/Certification/"/>
+    
+      <category term="Voices" scheme="http://www.reynoldsoncontrol.com/tags/Voices/"/>
+    
+  </entry>
   
   <entry>
     <title>AMX Solutions Master - ASM</title>
