@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.reynoldsoncontrol.com/"/>
-  <updated>2018-04-03T13:50:17.704Z</updated>
+  <updated>2018-04-13T11:44:05.767Z</updated>
   <id>http://www.reynoldsoncontrol.com/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>QSYS - Level1</title>
+    <link href="http://www.reynoldsoncontrol.com/blog/QSYS-Level1.html"/>
+    <id>http://www.reynoldsoncontrol.com/blog/QSYS-Level1.html</id>
+    <published>2018-04-13T05:00:00.000Z</published>
+    <updated>2018-04-13T11:44:05.767Z</updated>
+    
+    <content type="html"><![CDATA[<p>We are pleased to announce our most recent certification as <a href="https://training.qsc.com/course/view.php?id=7" target="_blank" rel="external">QSYS Level 1 certified</a>.  If you need assistance programming a QSYS conference system, we are certified to help.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      Reynoldson Control is now a certified QSYS Level 1 certified.
+    
+    </summary>
+    
+      <category term="QSYS" scheme="http://www.reynoldsoncontrol.com/category/QSYS/"/>
+    
+    
+      <category term="Certification" scheme="http://www.reynoldsoncontrol.com/tags/Certification/"/>
+    
+      <category term="Voices" scheme="http://www.reynoldsoncontrol.com/tags/Voices/"/>
+    
+  </entry>
   
   <entry>
     <title>Extron Authorized Programmer - EAP</title>
